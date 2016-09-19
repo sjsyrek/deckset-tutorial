@@ -1,7 +1,9 @@
 # Deckset Tutorial
 ## How to use Markdown to make beautiful presentations
 
-Open this file in your [favorite text editor](http://www.vim.org/) and in the [Deckset](http://www.decksetapp.com/) application. I recommend that you view the tutorial using the Plain Jane theme to start with, as not all themes support all styling options. You can switch back and forth between editor and app to see how the Markdown is converted into slides, making experimental adjustments as you see fit. Enjoy.
+Open this file in your [favorite text editor](http://www.vim.org/) and in the [Deckset](http://www.decksetapp.com/) application. I recommend that you view the tutorial using the Plain Jane theme to start with, as not all themes support all styling options. You can switch back and forth between editor and app to see how the Markdown is converted into slides, making experimental adjustments as you see fit. Or, if you tell Deckset which editor you like to use, it will provide a picture-in-picture window for you (GUI editors only). Enjoy.
+
+^ Note: if you are viewing this file on GitHub, everything after this point will look weird.
 
 ---
 
@@ -68,7 +70,7 @@ Or (this one is inline) quotes that are actually interesting:
 
 # You can also include notes for yourself in the Markdown file that won't display on the slide
 
-^ This text will not appear on the slide
+^ This text will not appear on the slide.
 
 ---
 
